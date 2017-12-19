@@ -1,0 +1,17 @@
+### SVN template
+.svn/
+.idea/
+.idea/misc.xml
+.settings/
+*.jar
+target/
+*.class
+*.war
+logs/
+*.iml
+*.db
+*.log
+upload/
+html/
+resources/upload/
+# Created by .ignore support plugin (hsz.mobi)
